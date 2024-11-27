@@ -1,0 +1,46 @@
+h1{
+    text-shadow: 0px 5px 10px black;
+    text-align:center;
+    color: rgb(239, 243, 247);
+
+}
+#story-of-wolves-text{
+    color: rgb(228, 130, 10);
+}
+img{
+    display: block;
+    border: 10px solid rgb(221, 116, 18);
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.single-story-section-text{
+    text-shadow: 0px 2px 10px rgb(7, 3, 0);
+    margin-right: 10px;
+}
+.img-text-section{
+    display: flex;
+    margin-top: 100px;
+    justify-content: start;
+}
+h2{
+    color: rgb(219, 181, 9);
+   flex-direction: row;
+   justify-content: start;
+}
+.icon-img{
+    margin-right: 10px;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+}
+body{
+  background-image: url("images/sky-view.jpg");
+  background-size: contain;
+}
+h3{
+    color: aliceblue;
+}
+p{
+    color:aliceblue;
+}
